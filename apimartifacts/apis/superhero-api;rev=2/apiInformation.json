@@ -1,11 +1,10 @@
 {
   "properties": {
-    "apiRevision": "1",
-    "apiRevisionDescription": "initial",
+    "apiRevision": "2",
+    "apiRevisionDescription": "new",
     "apiVersionDescription": "",
     "authenticationSettings": {},
     "displayName": "Superhero api",
-    "isCurrent": true,
     "path": "superheroapi",
     "protocols": [
       "https"
