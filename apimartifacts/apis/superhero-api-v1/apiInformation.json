@@ -1,0 +1,22 @@
+{
+  "properties": {
+    "apiRevision": "1",
+    "apiVersion": "v1",
+    "apiVersionSetId": "/subscriptions/c80574f9-15e0-4366-8222-39fe4ee64c2b/resourceGroups/visug-apiops-ot-rg/providers/Microsoft.ApiManagement/service/visug-ot-apim/apiVersionSets/65312428601cbf2f2a4db5b2",
+    "authenticationSettings": {},
+    "description": "apidescription5200",
+    "displayName": "apiname1463",
+    "isCurrent": true,
+    "path": "newapiPath",
+    "protocols": [
+      "http",
+      "https"
+    ],
+    "serviceUrl": "http://newechoapi.cloudapp.net/api2dssd",
+    "subscriptionKeyParameterNames": {
+      "header": "header4520",
+      "query": "query3037"
+    },
+    "subscriptionRequired": true
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "properties": {
+    "apiRevision": "1",
+    "apiRevisionDescription": "initial",
+    "apiVersionDescription": "",
+    "apiVersionSetId": "/subscriptions/c80574f9-15e0-4366-8222-39fe4ee64c2b/resourceGroups/visug-apiops-ot-rg/providers/Microsoft.ApiManagement/service/visug-ot-apim/apiVersionSets/65312428601cbf2f2a4db5b2",
+    "authenticationSettings": {},
+    "displayName": "Superhero api",
+    "path": "superheroapi",
+    "protocols": [
+      "https"
+    ],
+    "subscriptionKeyParameterNames": {
+      "header": "Authorization",
+      "query": "Authorization"
+    },
+    "subscriptionRequired": true
+  }
+}
