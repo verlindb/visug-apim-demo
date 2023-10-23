@@ -16,6 +16,7 @@
           "SuperHero"
         ],
         "summary": "/api/SuperHero - GET",
+        "description": "/api/SuperHero - GET",
         "operationId": "get-api-superhero",
         "responses": {
           "200": {
@@ -77,6 +78,7 @@
           "SuperHero"
         ],
         "summary": "/api/SuperHero - POST",
+        "description": "/api/SuperHero - POST",
         "operationId": "post-api-superhero",
         "requestBody": {
           "content": {

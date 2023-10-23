@@ -10,6 +10,7 @@
     "protocols": [
       "https"
     ],
+    "serviceUrl": "https://visug-ot-apim.azure-api.net/superheroapi",
     "subscriptionKeyParameterNames": {
       "header": "Authorization",
       "query": "Authorization"
