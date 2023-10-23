@@ -1,0 +1,13 @@
+schema {
+  query: Query
+}
+
+type ApiOpsTopic {
+  id: Int!
+  name: String
+}
+
+type Query {
+  # Get all API Ops topics
+  apiOpsTopics: [ApiOpsTopic!]!
+}
