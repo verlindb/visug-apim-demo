@@ -1,0 +1,18 @@
+{
+  "properties": {
+    "apiRevision": "2",
+    "apiRevisionDescription": "new",
+    "apiVersionDescription": "",
+    "authenticationSettings": {},
+    "displayName": "Superhero api",
+    "path": "superheroapi",
+    "protocols": [
+      "https"
+    ],
+    "subscriptionKeyParameterNames": {
+      "header": "Authorization",
+      "query": "Authorization"
+    },
+    "subscriptionRequired": true
+  }
+}
