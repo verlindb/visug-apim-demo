@@ -1,0 +1,22 @@
+{
+  "properties": {
+    "apiRevision": "1",
+    "apiVersion": "V2",
+    "apiVersionSetId": "/subscriptions/c80574f9-15e0-4366-8222-39fe4ee64c2b/resourceGroups/visug-apiops-ot-rg/providers/Microsoft.ApiManagement/service/visug-ot-apim/apiVersionSets/apitopicsversionset",
+    "authenticationSettings": {},
+    "displayName": "ApiopsTopics API",
+    "isCurrent": true,
+    "path": "apiopstopics",
+    "protocols": [
+      "http",
+      "https"
+    ],
+    "serviceUrl": "https://apitopics-ot.azurewebsites.net/graphql",
+    "subscriptionKeyParameterNames": {
+      "header": "Ocp-Apim-Subscription-Key",
+      "query": "subscription-key"
+    },
+    "subscriptionRequired": true,
+    "type": "graphql"
+  }
+}
