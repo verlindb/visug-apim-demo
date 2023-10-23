@@ -51,7 +51,7 @@
     },
     "httpCorrelationProtocol": "Legacy",
     "logClientIp": true,
-    "loggerId": "/subscriptions/c80574f9-15e0-4366-8222-39fe4ee64c2b/resourceGroups/visug-apiops-ot-rg/providers/Microsoft.ApiManagement/service/visug-ot-apim/loggers/visug-apiops-ot-apinsights",
+    "loggerId": "/subscriptions/c80574f9-15e0-4366-8222-39fe4ee64c2b/resourceGroups/visug-apiops-ot-rg/providers/Microsoft.ApiManagement/service/visug-ot-apim/loggers/visug-appinsights",
     "sampling": {
       "percentage": 100,
       "samplingType": "Fixed"
